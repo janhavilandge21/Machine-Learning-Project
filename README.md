@@ -74,6 +74,8 @@ jupyter notebook or streamlit run app.py
 
 
 
+
+
 📌 What You’ll Learn
 End-to-end ML workflows
 
@@ -88,6 +90,8 @@ Deep Learning using CNNs
 NLP and Chat Analytics
 
 Integration with real-world data & APIs
+
+
 
 👩‍💻 About Me
 Janhavi Landge
