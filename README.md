@@ -70,9 +70,7 @@ Machine-Learning-Projects/
 pip install -r requirements.txt
 
 3.Run Jupyter Notebooks or Streamlit apps:
-jupyter notebook
-# or
-streamlit run app.py
+jupyter notebook or streamlit run app.py
 
 
 
