@@ -67,6 +67,7 @@ Welcome to my curated collection of **Machine Learning Projects**. Each project 
 
 pip install -r requirements.txt
 
+
 3.Run Jupyter Notebooks or Streamlit apps:
 
 jupyter notebook or streamlit run app.py
