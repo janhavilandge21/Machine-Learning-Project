@@ -73,17 +73,6 @@ R² Score: X.XX
 
 🐳 Docker Support: docker build .
 
-📂 Project Structure
-├── data/               # Raw and processed datasets
-├── notebooks/          # Jupyter notebooks
-├── src/                # Source code
-│   ├── preprocessing.py
-│   ├── train.py
-│   └── evaluate.py
-├── app.py              # Streamlit/Flask app
-├── requirements.txt    # Dependencies
-└── README.md           # Project README
-
 🛠 Technologies
 
 Python 🐍
@@ -97,26 +86,6 @@ Matplotlib / Seaborn
 Streamlit / Flask
 
 ---
-
-## 🧰 Technologies Used
-
-- Python
-- 
-- NumPy, Pandas
-- 
-- Scikit-learn
-- 
-- TensorFlow, Keras
-- 
-- Matplotlib, Seaborn
-- 
-- OpenCV
-- 
-- Jupyter Notebook
-- 
-- Streamlit (for deployment)
-- 
-- Git & GitHub
 
 
 2.Install dependencies:
