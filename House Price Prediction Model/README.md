@@ -1,4 +1,4 @@
-📌 Simple Linear Regression Model
+#  📌 Simple Linear Regression Model
 📖 Overview
 
 This project demonstrates a Simple Linear Regression model to predict [e.g., salary based on years of experience / house price based on size].
