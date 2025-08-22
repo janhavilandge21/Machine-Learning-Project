@@ -1,4 +1,4 @@
-🚗 Car MPG Prediction using Linear, Ridge & Lasso Regression
+#  🚗 Car MPG Prediction using Linear, Ridge & Lasso Regression
 📌 Project Overview
 
 This project focuses on predicting a car’s Miles Per Gallon (MPG) based on various attributes such as horsepower, displacement, weight, and origin. To improve model performance and reduce overfitting, Regularization techniques (Ridge & Lasso Regression) are applied and compared against a baseline Linear Regression.
