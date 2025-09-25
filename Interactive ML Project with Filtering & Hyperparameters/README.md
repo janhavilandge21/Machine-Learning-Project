@@ -4,7 +4,7 @@ This project is an interactive Streamlit application that demonstrates Explorato
 
 It is designed as a learning-friendly and interactive tool for beginners and intermediate ML practitioners.
 
-🚀 Features
+# 🚀 Features
 
 📈 EDA: Correlation heatmap, summary statistics, and feature distributions.
 
@@ -18,7 +18,7 @@ It is designed as a learning-friendly and interactive tool for beginners and int
 
 ✅ Overfitting/Underfitting Detection: Built-in checks for model performance.
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Python
 
@@ -35,7 +35,7 @@ Seaborn
 Scikit-learn
 
 
-⚙️ Installation
+# ⚙️ Installation
 
 ▶️ Run the App
 
@@ -46,7 +46,7 @@ streamlit run ML.py
 
 Then open your browser at http://localhost:8501.
 
-📦 Requirements
+# 📦 Requirements
 
 Add the following to requirements.txt:
 
@@ -57,7 +57,7 @@ seaborn
 scikit-learn
 streamlit
 
-📊 Example Output
+# 📊 Example Output
 
 Correlation heatmap of dataset
 
