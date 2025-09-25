@@ -4,7 +4,7 @@ Welcome to my curated collection of **Machine Learning Projects**. Each project 
 
 
 
-📌 Table of Contents
+# 📌 Table of Contents
 
 Overview
 
@@ -26,7 +26,7 @@ Project Structure
 
 Contributors
 
-📖 Overview
+# 📖 Overview
 
 We built and evaluated multiple models, focusing on accuracy, interpretability, and scalability.
 
@@ -35,14 +35,14 @@ We built and evaluated multiple models, focusing on accuracy, interpretability, 
 ✔️ Model training & evaluation
 ✔️ Deployment-ready pipeline
 
-📊 Dataset
+# 📊 Dataset
 
 📂 Source: Kaggle/Custom Link
 
 🔢 Shape: Rows × Columns
 📝 Description: Key features – Feature1, Feature2, Target
 
-🧠 Workflow
+# 🧠 Workflow
 graph TD;
     A[Data Collection] --> B[Data Cleaning];
     B --> C[Exploratory Data Analysis];
@@ -51,11 +51,11 @@ graph TD;
     E --> F[Evaluation];
     F --> G[Deployment];
 
-⚙️ Installation
+# ⚙️ Installation
 
 Clone the repo and install dependencies 👇
 
-📈 Results
+# 📈 Results
 
 📌 Model Performance:
 
@@ -65,7 +65,7 @@ RMSE: X.XX
 
 R² Score: X.XX
 
-📊 Visualization Example:
+#📊 Visualization Example:
 
 🚀 Deployment
 
@@ -73,7 +73,7 @@ R² Score: X.XX
 
 🐳 Docker Support: docker build .
 
-🛠 Technologies
+# 🛠 Technologies
 
 Python 🐍
 
@@ -88,20 +88,18 @@ Streamlit / Flask
 ---
 
 
-2.Install dependencies:
+# Install dependencies:
 
 pip install -r requirements.txt
 
 
-3.Run Jupyter Notebooks or Streamlit apps:
+Run Jupyter Notebooks or Streamlit apps:
 
 jupyter notebook or streamlit run app.py
 
 
 
-
-
-📌 What You’ll Learn
+# 📌 What We’ll Learn
 
 End-to-end ML workflows
 
