@@ -34,11 +34,6 @@ Seaborn
 
 Scikit-learn
 
-📂 Project Structure
-📦 Interactive-ML-Project
- ┣ 📜 ML.py                # Main Streamlit app
- ┣ 📜 requirements.txt      # Dependencies
- ┗ 📄 Interactive ML Project with Filtering & Hyperparameters.pdf
 
 ⚙️ Installation
 
