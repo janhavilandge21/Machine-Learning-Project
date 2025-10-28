@@ -6,11 +6,17 @@ This app allows users to analyze student performance using Regression, Classific
 # 🚀 Features
 
 ✅ Upload CSV Dataset or use a default dataset
+
 ✅ Auto Data Cleaning (column trimming and mapping)
+
 ✅ Dynamic Column Selection
+
 ✅ Regression Model (Predict Scores using Study Hours)
+
 ✅ Classification Model (Predict Pass/Fail outcomes)
+
 ✅ Clustering Model (Group students by performance)
+
 ✅ Performance Metrics & Visualizations
 
 Linear Regression Scatter Plot
@@ -21,8 +27,11 @@ KMeans Cluster Visualization
 
 #🧠 Machine Learning Models Used
 Task	Algorithm	Evaluation Metric
+
 Regression	Linear Regression	RMSE (Root Mean Squared Error)
+
 Classification	Logistic Regression	Accuracy & Confusion Matrix
+
 Clustering	KMeans	Silhouette Score
 
 # ⚙️ Installation and Setup
@@ -88,7 +97,10 @@ matplotlib
 # 💡 Future Improvements
 
 🔸 Add more ML models (Decision Tree, Random Forest)
+
 🔸 Integrate Power BI or Plotly Dash visualizations
+
 🔸 Enable live dataset editing and export options
+
 🔸 Add data preprocessing insights and reports
 
