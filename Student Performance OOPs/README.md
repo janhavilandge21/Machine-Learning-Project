@@ -25,7 +25,8 @@ Confusion Matrix Heatmap
 
 KMeans Cluster Visualization
 
-#🧠 Machine Learning Models Used
+# 🧠 Machine Learning Models Used
+
 Task	Algorithm	Evaluation Metric
 
 Regression	Linear Regression	RMSE (Root Mean Squared Error)
