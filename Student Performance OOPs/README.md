@@ -95,9 +95,13 @@ Matplotlib
 Create a requirements.txt file:
 
 streamlit
+
 pandas
+
 numpy
+
 scikit-learn
+
 matplotlib
 
 # 💡 Future Improvements
