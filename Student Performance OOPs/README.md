@@ -55,11 +55,16 @@ A score column (numeric)
 A study hours column (numeric)
 
 # 🧾 Example Dataset Format
-Student_ID	Study_Hours	Score
-1	2.5	55
-2	5.0	78
-3	1.0	35
-4	8.0	92
+Student_ID  	Study_Hours	Score
+
+1	2.5       	55
+
+2	5.0       	78
+
+3	1.0	        35
+
+4	8.0	        92
+
 # 📊 App Preview
 🔹 Regression
 
