@@ -1,4 +1,4 @@
-# 🎓 Student ML App 
+# 🎓 Student App 
 
 A Streamlit-based Machine Learning Web Application built using an Object-Oriented Programming (OOP) approach.
 This app allows users to analyze student performance using Regression, Classification, and Clustering models with interactive visualizations.
